@@ -10,7 +10,9 @@ Sr. System Production Engineer
 * ✉️  You can contact me at [manatsawinsangonwk@gmail.com](mailto:manatsawinsangonwk@gmail.com)
 * 🧠  I'm currently learning new tech stack by Next JS and Nest JS for Backend role.
 
-* Stack
+My Stack
+-----------------------------
+
   <p align="left">
     Frontend 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
