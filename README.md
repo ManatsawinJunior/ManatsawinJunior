@@ -10,6 +10,8 @@ Sr. System Production Engineer
 * ✉️  You can contact me at [manatsawinsangonwk@gmail.com](mailto:manatsawinsangonwk@gmail.com)
 * 🧠  I'm currently learning new tech stack by Next JS and Nest JS for Backend role.
 
+transitioning Industrial System Engineer ➔ Software Developer 
+
 Teck Stack
 -----------------------------
   Frontend 
@@ -65,7 +67,7 @@ Achievement
 * **RestFul API ** | C# .Net Core API
   <p>Developing a RESTful API service to provide and streamline production workflow data for cross-functional departments, enabling real-time data access and enhancing inter-departmental collaboration.</p>
 **2023 - 2025**
-* **System Designer** | SQL Server
+* **System Designer** (Window Application) | SQL Server
   <p>Designing a New Model Setup & Control System to monitor and track key production milestones. The system utilizes a centralized database to provide station-level traceability, ensuring all critical processes are controlled and monitored throughout the new model introduction phase</p>
 
 
